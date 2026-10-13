@@ -1,0 +1,6 @@
+{
+  "name": "MarkClear - AI Video & Image Watermark Remover",
+  "description": "Accurate clone of MarkClear (com.xiaoxu.spqsy). Professional AI-powered watermark, subtitle, logo, and object remover for videos and photos with real-time inpainting and HD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
